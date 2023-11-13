@@ -1,0 +1,36 @@
+https://projectworlds.in/python-projects-with-source-code/python-blood-bank-management-system/
+
+Email : admin@bloodbank.com
+Password : admin
+
+Blood-Bank
+Blood bank website made with python3 ,flask, Sqlite, Bootstrap.
+
+ 
+
+Some of the functionality which can be benefited by being a User is listed below
+
+User Registration and Login, Logout.
+Update your Profile , Delete your account.
+Request/contact for Blood.
+Notification's for Requests.
+Search for Blood.
+NOTE : admin's credentials
+
+Email : admin@bloodbank.com
+Password : admin
+Functionality for Admin is listed below
+
+Dashboard
+Add blood in the Blood Bank
+Edit blood donatations and their details
+Contact registered users
+Delete users/entries
+Instructions:
+
+download project and extract
+Install the dependencies
+                pip install --user -r requirements.txt
+Start the server
+                python server.py
+Hurray!!.. Donote Blood.
